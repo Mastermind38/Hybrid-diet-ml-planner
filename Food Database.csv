@@ -1,0 +1,61 @@
+Food Code,English Name,Bengali Name,Category,Energy (kcal),Protein (g),Fat (g),Carbs (g),Fibre (g),is_breakfast,is_lunch,is_dinner,is_snack,is_vegetarian,is_diabetic_friendly,is_high_protein
+01_0041,"Rice, white, polished, boiled","Bhat, Atop",Cereals,111,2.1,0.1,24.8,1.0,0,1,1,0,1,0,0
+01_0038,"Rice, brown, boiled","Bhat, lal",Cereals,112,2.5,0.4,23.2,1.3,0,1,1,0,1,1,0
+01_0042,Roti / Flatbread,Ruti,Cereals,246,7.5,1.2,49.7,3.1,1,0,1,0,1,1,0
+01_0023,"Rice, puffed",Muri,Cereals,361,6.7,0.1,82.7,1.4,1,0,0,1,1,0,0
+01_0035,Plain Khichuri,Khichuri,Cereals,163,5.1,7.4,17.7,2.5,1,1,1,0,1,0,0
+01_0050,Paratha,Porota,Cereals,326,7.0,14.0,43.0,2.0,1,0,0,0,1,0,0
+01_0051,Naan bread,Naan,Cereals,295,9.6,6.0,50.0,2.5,0,1,1,0,1,0,0
+01_0052,"Vermicelli, boiled",Shemai,Cereals,120,2.0,0.5,26.0,1.0,1,0,0,1,1,0,0
+02_0015,"Lentil, boiled",Mosur dal siddha,Pulses,155,13.6,0.4,21.2,6.5,1,1,1,0,1,1,1
+02_0013,"Green gram, boiled",Mung dal siddha,Pulses,161,10.9,0.5,28.1,0.3,1,1,1,0,1,1,1
+02_0012,"Bengal gram, boiled",Chola siddha,Pulses,182,10.6,3.1,23.3,9.1,1,0,0,0,1,1,1
+02_0018,"Black gram, boiled",Mashkalai dal,Pulses,160,11.0,0.6,27.0,4.0,0,1,1,0,1,1,1
+02_0019,Yellow pigeon peas,Arhar dal,Pulses,343,21.7,1.5,62.8,15.0,1,1,1,0,1,1,1
+03_0033,"Brinjal, boiled",Begun siddha,Vegetables,26,2.1,0.1,2.1,4.4,0,1,1,0,1,1,0
+03_0043,"Pumpkin, boiled",Mistikumra siddha,Vegetables,29,2.2,0.5,2.1,3.8,0,1,1,0,1,1,0
+03_0038,"Gourd, pointed, boiled",Potol siddha,Vegetables,28,2.3,0.4,2.5,2.5,0,1,1,0,1,1,0
+03_0047,"Gourd, bitter, boiled",Korola siddha,Vegetables,35,2.3,0.4,4.1,3.0,0,1,1,0,1,1,0
+03_0040,"Okra, boiled",Dheros siddha,Vegetables,32,1.7,0.1,4.7,2.5,0,1,1,0,1,1,0
+03_0045,"Tomato, boiled",Paka tomato siddha,Vegetables,30,2.1,0.5,2.7,3.1,1,1,1,0,1,1,0
+05_0021,Potato Mash,Alu bhorta,Vegetables,100,2.0,4.0,16.0,2.0,0,1,1,0,1,0,0
+03_0050,"Cauliflower, boiled",Fulkopi,Vegetables,23,1.8,0.2,4.1,2.0,0,1,1,0,1,1,0
+03_0051,"Cabbage, boiled",Badhakopi,Vegetables,22,1.1,0.1,5.1,2.0,0,1,1,0,1,1,0
+03_0052,"Bottle gourd, boiled",Lau,Vegetables,14,0.2,0.1,3.4,1.2,0,1,1,0,1,1,0
+03_0053,"Green papaya, boiled",Kacha pepe,Vegetables,32,0.6,0.1,7.8,1.7,0,1,1,0,1,1,0
+03_0054,Snake gourd,Chichinga,Vegetables,18,0.9,0.1,3.3,0.8,0,1,1,0,1,1,0
+03_0055,Ridge gourd,Jhinga,Vegetables,17,0.5,0.1,3.4,1.0,0,1,1,0,1,1,0
+04_0032,"Amaranth leaves, red",Lal shak,Leafy Veg,37,5.3,0.4,0.6,5.0,0,1,1,0,1,1,0
+04_0035,"Spinach, boiled",Palong shak,Leafy Veg,47,5.4,0.9,1.6,5.3,0,1,1,0,1,1,0
+04_0036,Indian spinach,Pui shak,Leafy Veg,33,3.1,0.4,2.8,2.9,0,1,1,0,1,1,0
+04_0040,Water amaranth,Kolmi shak,Leafy Veg,28,3.0,0.3,4.0,3.0,0,1,1,0,1,1,0
+04_0041,"Moringa leaves, raw",Sajna pata,Leafy Veg,92,6.7,1.7,12.5,0.9,0,1,1,0,1,1,0
+04_0042,Jute leaves,Paat shak,Leafy Veg,73,5.8,1.0,11.3,2.0,0,1,1,0,1,1,0
+09_0060,"Rohu fish, cooked",Rui mach,Fish,105,18.0,3.0,0.0,0.0,0,1,1,0,0,1,1
+09_0047,"Pangas fish, cooked",Pangas mach,Fish,140,15.0,8.0,0.0,0.0,0,1,1,0,0,1,1
+09_0068,"Tilapia fish, cooked",Tilapia mach,Fish,128,20.0,5.0,0.0,0.0,0,1,1,0,0,1,1
+09_0070,"Hilsa fish, cooked",Ilish mach,Fish,276,21.0,20.0,0.0,0.0,0,1,1,0,0,0,1
+09_0071,Climbing perch,Koi mach,Fish,110,16.0,4.0,0.0,0.0,0,1,1,0,0,1,1
+09_0072,Mola carplet,Mola mach,Fish,95,15.0,3.0,1.0,0.0,0,1,1,0,0,1,1
+09_0073,Walking catfish,Magur mach,Fish,86,15.0,2.0,0.0,0.0,0,1,1,0,0,1,1
+10_0006,"Chicken breast, cooked",Murgir mangsho,Meat,165,31.0,3.6,0.0,0.0,0,1,1,0,0,1,1
+10_0001,"Beef, curry",Gorur mangsho,Meat,250,26.0,15.0,2.0,0.0,0,1,1,0,0,0,1
+10_0010,"Mutton, curry",Khashir mangsho,Meat,295,25.0,21.0,1.0,0.0,0,1,1,0,0,0,1
+11_0005,"Egg, chicken, boiled",Dim siddha,Egg,155,12.6,10.6,1.1,0.0,1,1,1,1,0,1,1
+11_0006,"Egg, duck, boiled",Hasher dim,Egg,185,13.0,14.0,1.0,0.0,1,1,1,1,0,0,1
+15_0001,Samosa,Singara,Snacks,250,4.0,12.0,30.0,2.0,0,0,0,1,1,0,0
+15_0002,Puffed rice mix,Jhalmuri,Snacks,350,8.0,10.0,55.0,4.0,0,0,0,1,1,0,0
+15_0003,Fuchka / Panipuri,Fuchka,Snacks,320,6.0,12.0,45.0,3.0,0,0,0,1,1,0,0
+15_0004,Chotpoti,Chotpoti,Snacks,180,7.0,4.0,28.0,6.0,0,0,0,1,1,0,0
+15_0005,Beef Halim,Halim,Snacks,310,18.0,15.0,25.0,5.0,0,0,0,1,0,0,1
+15_0006,"Pitha, Bhapa",Bhapa Pitha,Snacks,230,3.0,4.0,45.0,1.5,1,0,0,1,1,0,0
+12_0008,"Milk, cow",Dudh,Dairy,61,3.2,3.3,4.8,0.0,1,0,0,1,1,1,0
+12_0010,"Yogurt, sweet",Misti doi,Dairy,105,3.0,4.0,14.0,0.0,0,1,1,1,1,0,0
+12_0011,"Yogurt, plain",Tok doi,Dairy,60,4.0,3.0,4.5,0.0,1,1,1,1,1,1,1
+08_0004,Banana,Kola,Fruits,89,1.1,0.3,22.8,2.6,1,0,0,1,1,0,0
+08_0026,"Mango, ripe",Paka Aam,Fruits,60,0.8,0.4,15.0,1.6,1,0,0,1,1,0,0
+08_0030,"Jackfruit, ripe",Kathal,Fruits,95,1.7,0.3,23.0,1.5,1,0,0,1,1,0,0
+08_0031,Guava,Peyara,Fruits,68,2.6,1.0,14.0,5.4,1,0,0,1,1,1,0
+08_0032,"Papaya, ripe",Paka pepe,Fruits,43,0.5,0.3,11.0,1.8,1,0,0,1,1,1,0
+08_0033,Pineapple,Anarosh,Fruits,50,0.5,0.1,13.0,1.4,1,0,0,1,1,1,0
+08_0034,Litchi,Lichu,Fruits,66,0.8,0.4,16.5,1.3,1,0,0,1,1,0,0
