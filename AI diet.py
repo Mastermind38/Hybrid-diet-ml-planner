@@ -24,7 +24,7 @@ def load_data():
 
 df = load_data()
 
-st.title("Machine Learning Meal Planner")
+st.title("ML Based Meal Planner")
 st.write("A hybrid approach using mathematical basal calculations and KNN-based food recommendations.")
 
 if df is not None:
